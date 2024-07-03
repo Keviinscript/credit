@@ -1,0 +1,19 @@
+{
+  "name": "credit",
+  "version": "1.0.0",
+  "description": "Bank Responsive Website Template",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tailwindcss -i ./src/style.css -o ./dist/style.css ",
+    "watch": "tailwindcss -i ./src/style.css -o ./dist/style.css --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "autoprefixer": "^10.4.19",
+    "postcss": "^8.4.38",
+    "tailwindcss": "^3.4.3"
+  }
+}

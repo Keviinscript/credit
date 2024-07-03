@@ -189,11 +189,13 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
     -webkit-transform: rotate(-10deg);
     transform: rotate(-10deg);
   }
+  
 
   60% {
     -webkit-transform: rotate(5deg);
     transform: rotate(5deg);
   }
+  
 
   80% {
     -webkit-transform: rotate(-5deg);
